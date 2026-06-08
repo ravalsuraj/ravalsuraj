@@ -36,19 +36,15 @@ width="50" height="50"/>
   <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge" />
 </p>
 
+### Featured Work
 
-## &#x1f4c8; My GitHub Stats
+- ⚡ Salesforce VS Code Extension (12,000+ installs)
+- 💳 Enterprise Payment Platform (Kotlin + React)
+- ☁️ Salesforce Architecture & Enterprise Integrations
+- 🎧 Omnichannel Platforms (Genesys, Avaya, Cisco, Dialogflow)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravalsuraj&theme=vue-dark&show_icons=true)](https://github.com/ravalsuraj/github-readme-stats)
+### Connect
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravalsuraj&theme=vue-dark&count_private=true&show_icons=true))](https://github.com/ravalsuraj/github-readme-stats)
-
-<p><em>Check out this nifty VS Code extension built by <a href="https://github.com/jatinsharmaa">@jatinsharmaa</a> & me</em></p>
-<a href="[https://marketplace.visualstudio.com/items?itemName=Audibene.salesforcecodesnippets](https://marketplace.visualstudio.com/items?itemName=Audibene.salesforcecodesnippets)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsharmaa&repo=CodeSnippetsforSalesforce&theme=vue-dark" />
-</a>
-
-<!---
-ravalsuraj/ravalsuraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- LinkedIn: https://linkedin.com/in/ravalsuraj
+<!-- - Portfolio: https://YOUR-DOMAIN-->
+- Email: raval.suraj@gmail.com
