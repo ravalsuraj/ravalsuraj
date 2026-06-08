@@ -26,15 +26,25 @@ width="50" height="50"/>
 </p>
 
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,kotlin,java,aws,docker,git,vscode" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/LWC-0176D3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge" />
+</p>
+
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravalsuraj&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravalsuraj&theme=vue-dark&show_icons=true)](https://github.com/ravalsuraj/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravalsuraj&theme=vue-dark&count_private=true&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravalsuraj&theme=vue-dark&count_private=true&show_icons=true))](https://github.com/ravalsuraj/github-readme-stats)
 
 <p><em>Check out this nifty VS Code extension built by <a href="https://github.com/jatinsharmaa">@jatinsharmaa</a> & me</em></p>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="[https://marketplace.visualstudio.com/items?itemName=Audibene.salesforcecodesnippets](https://marketplace.visualstudio.com/items?itemName=Audibene.salesforcecodesnippets)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsharmaa&repo=CodeSnippetsforSalesforce&theme=vue-dark" />
 </a>
 
