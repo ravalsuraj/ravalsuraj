@@ -5,14 +5,13 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I’m Suraj Raval
 ---
-- 👀 I’m interested in Fullstack development, UI/UX, Salesforce, and Software development as a whole
-- 🌱 I’m currently exploring Vue, React, Svelte, and other front-end frameworks / libraries
-- 💞️ I’m looking to collaborate on Vue.js and Node projects
-- 📫 You can reach out on raval.suraj@gmail.com for any inquiries
+Senior Software Engineer focused on Enterprise Applications, Salesforce Architecture, Payment Systems, and Developer Tooling.
+
+12+ years of experience building CRM platforms, payment systems, omnichannel communication solutions, and enterprise integrations.
 
 🧰  Toolbox
 ---
-<p>
+<!-- <p>
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/>
@@ -23,7 +22,7 @@ width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="NPM Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS Logo" width="50" height="50"/>
-</p>
+</p> -->
 
 
 <p align="left">
